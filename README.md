@@ -4,9 +4,9 @@ Hi 👋 My name is Hariom Bansiwal
 Software Team Lead + IC
 -----------------------
 
-Result Oriented Software Team Lead with IC role, 9+ years of experience in agile software development and leading high-performance teams. Skilled in delivering high-quality software solutions and managing complex projects, mentoring teams, driving innovation, and aligning technical strategies with business objectives. 
+Result Oriented Software Project Lead, 9+ years of experience in agile projects and leading high-performance teams. Skilled in delivering high-quality software solutions and managing complex projects, mentoring teams, driving innovation, and aligning technical strategies with business objectives. 
 
-Skills Certifications: CSM, CSPO, Google PM.
+Skills Certifications: CSM, CSPO, Google Certified Project Manager.
 
 Languages: C++23, Rust, Java, Python, typescript. 
 
