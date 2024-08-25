@@ -1,7 +1,7 @@
 Hi 👋 My name is Hariom Bansiwal
 ================================
 
-Software Team Lead + IC
+Software Project Lead
 -----------------------
 
 Result Oriented Software Project Lead, 9+ years of experience in agile projects and leading high-performance teams. Skilled in delivering high-quality software solutions and managing complex projects, mentoring teams, driving innovation, and aligning technical strategies with business objectives. 
